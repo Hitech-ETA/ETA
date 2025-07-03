@@ -21,7 +21,7 @@
 
 | **오성민** | **박노혁** | **김상민** |
 | :------: |  :------: | :------: | 
-| [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=100 width=100><br/> @Oseongmin614](https://github.com/Oseongmin614) | [<img src="https://avatars.githubusercontent.com/u/115188037?v=4" height=100 width=100><br/> @NoHyeokPark](https://github.com/NoHyeokPark) | [<img src="https://avatars.githubusercontent.com/u/134168412?v=4" height=100 width=100><br/> @ksm7569](https://github.com/ksm7569) |
+| [<img src="https://avatars.githubusercontent.com/u/201106691?v=4" height=100 width=100><br/> @Oseongmin614](https://github.com/Oseongmin614) | [<img src="https://avatars.githubusercontent.com/u/201468248?v=4" height=100 width=100><br/> @NoHyeokPark](https://github.com/NoHyeokPark) | [<img src="https://avatars.githubusercontent.com/u/204567107?v=4" height=100 width=100><br/> @ksm7569](https://github.com/ksm7569) |
 | :------: |  :------: | :------: | 
 | Main,Chat,Firebase 연동, 실시간 데이터 처리| Map, |Alarm|
 </div>
@@ -38,7 +38,6 @@
 <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/uvicorn-222222?style=for-the-badge&logo=uvicorn&logoColor=white">
 <img src="https://img.shields.io/badge/huggingface-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black">
-
 ### DB
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
@@ -53,17 +52,19 @@
 
 
 
-모바일 애플리케이션 개발을 위해 **Android Studio**, **Java**, **Gradle**을 주로 사용하였으며, 데이터베이스는 실시간 통신, 사용자 인증, 보안 규칙 설정이 용이한 **Firebase**를 도입하였습니다.
-UI의 초기 디자인은 **Figma**를 활용하여 설계하였고, 버전 관리는 **GitHub**를 통해 진행하는 등 범용성이 높은 기술 스택을 사용하였습니다.
+모바일 애플리케이션 개발을 위해 **Android Studio**, **Java**, **Gradle**을 주로 사용하였으며, <br>
+데이터베이스는 실시간 통신, 사용자 인증, 보안 규칙 설정이 용이한 **Firebase**를 도입하였습니다.<br>
+UI의 초기 디자인은 **Figma**를 활용하여 설계하였고, <br>
+버전 관리는 **GitHub**를 통해 진행하는 등 범용성이 높은 기술 스택을 사용하였습니다.
 
 <br>
 <br>
 
 ## 개발목표
-- 팀 프로젝트 협업 역량 강화
-GitHub 브랜치 전략을 바탕으로 효율적인 협업과 버전 관리 실습
-기술 스택 역량 확장 - Full-stack 개발 경험
-팀프로젝트 협업을 하면서 커뮤니케이션 향상
-전통적인 개발프로세스 경험/체득 - 요구사항 정의서,ERD,UI/UX 설계서 등등 각 단계에 맞는 문서작성
+- 팀 프로젝트 협업 역량 강화<br>
+GitHub 브랜치 전략을 바탕으로 효율적인 협업과 버전 관리 실습<br>
+기술 스택 역량 확장 - Full-stack 개발 경험<br>
+팀프로젝트 협업을 하면서 커뮤니케이션 향상<br>
+전통적인 개발프로세스 경험/체득 - 요구사항 정의서,ERD,UI/UX 설계서 등등 각 단계에 맞는 문서작성<br>
 
 
